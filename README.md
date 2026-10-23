@@ -9,6 +9,9 @@ Live web demo: **https://kianpk.github.io/notecraft/**
 
 ## Features
 
+- Tags (#hash), pins, archive, preview, JSON export. Light stone UI.
+
+
 - Create / edit / delete notes
 - Instant search
 - Offline storage (`shared_preferences`)
